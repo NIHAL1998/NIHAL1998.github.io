@@ -24,13 +24,13 @@ hr{
 
 .bottom-cloud{
   position: absolute;
-  left: 310px;
+  left: 10%;
 }
 
 .top-cloud{
   position: absolute;
-  top: 90px;
-  right: 300px;
+  top: 5.625em;
+  right:10%;
 }
 
 .Myname{
